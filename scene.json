@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "Sun City Island Bar and Lounge",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "CryptoPete",
+    "email": ""
+  },
+  "owner": "metamask eth address here that owns the parcel",
+  "scene": {
+    "parcels": [
+      "0,0"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
